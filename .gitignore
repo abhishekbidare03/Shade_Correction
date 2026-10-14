@@ -1,0 +1,10 @@
+# Private working files: not part of the repository
+discovery-call-notes.txt
+*call-notes*
+plan.md
+
+# Build leftovers
+*.main.pdf
+*.html
+__pycache__/
+.ipynb_checkpoints/
